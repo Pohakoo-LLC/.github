@@ -2,5 +2,5 @@
 <h3 align="center">Independent AI research, web development, and consulting company</h3>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/e20d7ee2-3ed9-44cc-adac-86d63cd7bac3" alt="PohakooLLCLogo" style="max-width:50"> 
+    <img src="https://github.com/user-attachments/assets/98a58860-c044-4cce-a832-f2ab72e63137" alt="PohakooLLCLogo" width="200"> 
 </p>
